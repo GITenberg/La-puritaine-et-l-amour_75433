@@ -1,0 +1,35 @@
+_repo: La-puritaine-et-l-amour_75433
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Traz, Robert de
+    aliases:
+    - De Traz, Robert
+    - Traz, R. de (Robert)
+    birthdate: 1884
+    deathdate: 1951
+    gutenberg_agent_id: '57364'
+    url: http://www.gutenberg.org/2009/agents/57364
+    wikipedia: https://fr.wikipedia.org/wiki/Robert_de_Traz
+description: ''
+gutenberg_issued: '2025-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75433'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uiug.30112070138174
+pgterms:marc905: 20231202044649traz
+pgterms:marc906: '1917'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aParis :$bPayot, $c1917, pubdate 1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+title: La puritaine et l'amour
+url: http://www.gutenberg.org/ebooks/75433
